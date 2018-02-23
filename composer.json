@@ -10,5 +10,15 @@
     "issues": "https://www.drupal.org/project/issues/drupal_ci_test",
     "source": "http://cgit.drupalcode.org/drupal_ci_test"
   },
-  "require": { }
+  "require": { },
+  "require-dev": {
+    "cweagans/composer-patches": "dev-master",
+    "behat/mink-selenium2-driver": "^1.3@dev",
+    "behat/mink-extension": "v2.2",
+    "drupal/coder": "^8.2",
+    "drupal/drupal-extension": "master-dev",
+    "bex/behat-screenshot": "dev-master",
+    "phpmd/phpmd": "dev-master",
+    "phpmetrics/phpmetrics": "dev-master"
+  }
 }
