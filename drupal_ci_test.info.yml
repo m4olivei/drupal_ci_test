@@ -1,0 +1,5 @@
+name: 'Drupal CI Test'
+type: module
+description: 'Quick test of the drupal_tests auto-gen script.'
+core: 8.x
+package: 'Custom'

@@ -1,0 +1,14 @@
+{
+  "name": "drupal/drupal_ci_test",
+  "type": "drupal-module",
+  "description": "Quick test of the drupal_tests auto-gen script.",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/drupal_ci_test",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/drupal_ci_test",
+    "source": "http://cgit.drupalcode.org/drupal_ci_test"
+  },
+  "require": { }
+}
